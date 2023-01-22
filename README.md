@@ -7,7 +7,7 @@ Foi utilizado também os conceitos de responsividade com o uso do recurso do CSS
 
 ##  💻 Projeto
 
-<p> Repositorio de HTML e CSS do curso B7 do Professor bonieky lacerda. </p>
+<p> Repositorio de HTML e CSS do curso B7 do Professor Bonieky Lacerda. </p>
 
 ## 🚀 Tecnologias
 
