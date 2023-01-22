@@ -4,10 +4,13 @@
 
 
 ##  💻 Projeto
+
 <p> Repositorio de HTML e CSS do curso B7 do Professor bonieky lacerda. </p>
 
 ## 🚀 Tecnologias
+
 <p> Esse projeto foi desenvolvido com as seguintes tecnologias: </p>
+
 ## HTML
 ## CSS
 ## JAVASCRIPT
